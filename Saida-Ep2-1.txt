@@ -1,0 +1,149 @@
+Programa-demo para o Sistema de Monitoramento
+
+
+
+Digite o nome do arquivo com os dados a serem processados
+Numero de casos a serem analisados: 5
+
+
+
+IDENTIFICACAO: veiculo 2
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  1 | ( 2000.00, 2800.00) |  2601.92 |     2.20 |  2600.00
+  2 | ( 2400.00, -400.00) |  1614.43 |     2.84 |  1612.45
+  3 | (  400.00, 1000.00) |   850.00 |     3.37 |   848.53
+
+Localizacao previa: ( 1000.00,  400.00)
+
+Intervalo de tempo: 42.16 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  3 | (  400.00, 1000.00) |   801.56 |     3.58 |   800.00
+  4 | ( 1000.00,-1600.00) |  1898.32 |     1.81 |  1897.37
+  5 | ( -800.00, -800.00) |  1563.85 |     2.75 |  1562.05
+
+Localizacao atual: (  400.00,  200.00)
+
+Distancia percorrida: 632.46 m
+Velocidade: 15.00 m/s
+
+Distancia da origem: 447.21
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria INTERCEPTARA AP
+Distancia atual a AP e' de 252.98 metros
+Interseccao ocorrera em 16.87 segundos,
+na coordenada (  160.00,  120.00)
+
+*************************************
+  ALARME, ALARME, ALARME, ALARME !!
+      Invasao iminente !
+*************************************
+
+
+
+
+IDENTIFICACAO: veiculo 4
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  5 | ( -800.00, -800.00) |   897.57 |     4.79 |   894.43
+  6 | (-1400.00,  800.00) |  1216.92 |     1.41 |  1216.55
+  8 | (-2800.00, -800.00) |  1265.07 |     0.91 |  1264.91
+
+Localizacao previa: (-1600.00, -400.00)
+
+Intervalo de tempo: 36.40 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  5 | ( -800.00, -800.00) |   235.85 |    18.54 |   223.61
+  6 | (-1400.00,  800.00) |  1486.91 |     1.16 |  1486.61
+  8 | (-2800.00, -800.00) |  1910.60 |     0.60 |  1910.50
+
+Localizacao atual: ( -900.00, -600.00)
+
+Distancia percorrida: 728.01 m
+Velocidade: 20.00 m/s
+
+Distancia da origem: 1081.67
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 18
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  3 | (  400.00, 1000.00) |   950.00 |     3.02 |   948.68
+  4 | ( 1000.00,-1600.00) |  1924.47 |     1.79 |  1923.54
+  5 | ( -800.00, -800.00) |  1275.00 |     3.37 |  1272.79
+
+Localizacao previa: (  100.00,  100.00)
+
+Intervalo de tempo: 20.00 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  3 | (  400.00, 1000.00) |   950.00 |     3.02 |   948.68
+  4 | ( 1000.00,-1600.00) |  1924.47 |     1.79 |  1923.54
+  5 | ( -800.00, -800.00) |  1275.00 |     3.37 |  1272.79
+
+Localizacao atual: (  100.00,  100.00)
+
+Distancia percorrida: 0.00 m
+Velocidade: 0.00 m/s
+
+Distancia da origem: 141.42
+Veiculo estacionado na AP
+
+*************************************
+  ALARME, ALARME, ALARME, ALARME !!
+       Veiculo esta na AP !
+*************************************
+
+
+
+
+IDENTIFICACAO: veiculo 21
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 11 | (  300.00,    0.00) |   150.00 |     0.38 |   150.00
+ 12 | (  300.00,  100.00) |   180.29 |     0.64 |   180.28
+ 13 | (  300.00, -100.00) |   180.30 |     0.95 |   180.28
+
+Nao foi possivel calcular a localizacao inicial do veiculo 21.
+
+Nao foi possivel determinar a situacao do veiculo 21
+
+
+
+
+IDENTIFICACAO: veiculo 14
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 11 | (  300.00,    0.00) |    70.72 |     0.81 |    70.71
+ 12 | (  300.00,  100.00) |    70.74 |     1.62 |    70.71
+ 14 | (  250.00,    0.00) |    50.16 |     4.57 |    50.00
+
+Localizacao previa: (  250.00,   50.00)
+
+Intervalo de tempo: 10.21 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 11 | (  300.00,    0.00) |   150.00 |     0.38 |   150.00
+ 12 | (  300.00,  100.00) |   180.29 |     0.64 |   180.28
+ 13 | (  300.00, -100.00) |   180.30 |     0.95 |   180.28
+
+Nao foi possivel calcular a localizacao atual do veiculo 14.
+
+Nao foi possivel determinar a situacao do veiculo 14
