@@ -1,0 +1,735 @@
+Programa-demo para o Sistema de Monitoramento
+
+
+
+Digite o nome do arquivo com os dados a serem processados
+Numero de casos a serem analisados: 23
+
+
+
+IDENTIFICACAO: veiculo 1
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  1 | ( 2000.00, 1800.00) |  1232.88 |     9.34 |  1216.55
+  2 | ( 2000.00,  600.00) |   250.00 |    36.87 |   200.00
+  3 | ( 2600.00,  600.00) |   447.21 |    26.57 |   400.00
+
+Localizacao previa: ( 2200.00,  600.00)
+
+Intervalo de tempo: 20.00 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  1 | ( 2000.00, 1800.00) |  1232.88 |     9.34 |  1216.55
+  2 | ( 2000.00,  600.00) |   250.00 |    36.87 |   200.00
+  3 | ( 2600.00,  600.00) |   447.21 |    26.57 |   400.00
+
+Localizacao atual: ( 2200.00,  600.00)
+
+Distancia percorrida: 0.00 m
+Velocidade: 0.00 m/s
+
+Distancia da origem: 2280.35
+Veiculo estacionado FORA da zona de alerta
+
+
+
+
+IDENTIFICACAO: veiculo 2
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  8 | ( -200.00,-1600.00) |   906.92 |     9.52 |   894.43
+  9 | (  200.00,-1000.00) |   833.31 |     8.28 |   824.62
+ 11 | ( -600.00, -600.00) |   223.61 |    26.57 |   200.00
+
+Localizacao previa: ( -600.00, -800.00)
+
+Intervalo de tempo: 20.00 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  9 | (  200.00,-1000.00) |   833.31 |     8.28 |   824.62
+ 11 | ( -600.00, -600.00) |   223.61 |    26.57 |   200.00
+  8 | ( -200.00,-1600.00) |   906.92 |     9.52 |   894.43
+
+Localizacao atual: ( -600.00, -800.00)
+
+Distancia percorrida: 0.00 m
+Velocidade: 0.00 m/s
+
+Distancia da origem: 1000.00
+Veiculo estacionado na ZONA de ALERTA
+
+
+
+
+IDENTIFICACAO: veiculo 3
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 15 | (    0.00,  400.00) |   350.00 |    25.38 |   316.23
+ 16 | ( -200.00, -200.00) |   453.43 |    20.66 |   424.26
+ 17 | (  500.00,  100.00) |   412.31 |    14.04 |   400.00
+
+Localizacao previa: (  100.00,  100.00)
+
+Intervalo de tempo: 20.00 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 15 | (    0.00,  400.00) |   350.00 |    25.38 |   316.23
+ 16 | ( -200.00, -200.00) |   453.43 |    20.66 |   424.26
+ 17 | (  500.00,  100.00) |   412.31 |    14.04 |   400.00
+
+Localizacao atual: (  100.00,  100.00)
+
+Distancia percorrida: 0.00 m
+Velocidade: 0.00 m/s
+
+Distancia da origem: 141.42
+Veiculo estacionado na AP
+
+*************************************
+  ALARME, ALARME, ALARME, ALARME !!
+       Veiculo esta na AP !
+*************************************
+
+
+
+
+IDENTIFICACAO: veiculo 4
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  1 | ( 2000.00, 1800.00) |  1095.45 |    10.52 |  1077.03
+  2 | ( 2000.00,  600.00) |  1289.38 |     6.68 |  1280.62
+ 18 | (  600.00, 1000.00) |   571.31 |     8.05 |   565.69
+
+Localizacao previa: ( 1000.00, 1400.00)
+
+Intervalo de tempo: 29.92 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  1 | ( 2000.00, 1800.00) |   830.66 |    13.93 |   806.23
+  2 | ( 2000.00,  600.00) |  1533.79 |     5.61 |  1526.43
+ 18 | (  600.00, 1000.00) |  1084.62 |     4.23 |  1081.67
+
+Localizacao atual: ( 1200.00, 1900.00)
+
+Distancia percorrida: 538.52 m
+Velocidade: 18.00 m/s
+
+Distancia da origem: 2247.22
+Veiculo em movimento FORA da zona de alerta
+
+
+
+
+IDENTIFICACAO: veiculo 5
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  3 | ( 2600.00,  600.00) |  1500.00 |     7.66 |  1486.61
+  4 | ( 1800.00, -400.00) |   509.90 |    11.31 |   500.00
+  6 | ( 1400.00,-1600.00) |  1073.55 |     8.03 |  1063.01
+
+Localizacao previa: ( 2100.00, -800.00)
+
+Intervalo de tempo: 41.67 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  2 | ( 2000.00,  600.00) |  1530.52 |     5.62 |  1523.15
+  3 | ( 2600.00,  600.00) |  1414.21 |     8.13 |  1400.00
+  4 | ( 1800.00, -400.00) |   900.00 |     6.38 |   894.43
+
+Localizacao atual: ( 2600.00, -800.00)
+
+Distancia percorrida: 500.00 m
+Velocidade: 12.00 m/s
+
+Distancia da origem: 2720.29
+Veiculo em movimento FORA da zona de alerta
+
+
+
+
+IDENTIFICACAO: veiculo 6
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  6 | ( 1400.00,-1600.00) |   736.55 |    11.75 |   721.11
+  7 | (  400.00,-2600.00) |   763.22 |    19.12 |   721.11
+  8 | ( -200.00,-1600.00) |  1087.43 |     7.93 |  1077.03
+
+Localizacao previa: (  800.00,-2000.00)
+
+Intervalo de tempo: 26.67 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  7 | (  400.00,-2600.00) |   512.35 |    29.21 |   447.21
+  8 | ( -200.00,-1600.00) |  1289.38 |     6.68 |  1280.62
+  9 | (  200.00,-1000.00) |  1527.87 |     4.50 |  1523.15
+
+Localizacao atual: (  800.00,-2400.00)
+
+Distancia percorrida: 400.00 m
+Velocidade: 15.00 m/s
+
+Distancia da origem: 2529.82
+Veiculo em movimento FORA da zona de alerta
+
+
+
+
+IDENTIFICACAO: veiculo 7
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  7 | (  400.00,-2600.00) |   593.72 |    24.90 |   538.52
+  8 | ( -200.00,-1600.00) |   820.06 |    10.54 |   806.23
+ 10 | (-1600.00,-2200.00) |  1533.79 |     9.38 |  1513.27
+
+Localizacao previa: ( -100.00,-2400.00)
+
+Intervalo de tempo: 23.08 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  7 | (  400.00,-2600.00) |   750.00 |    19.47 |   707.11
+  8 | ( -200.00,-1600.00) |   531.51 |    16.39 |   509.90
+ 10 | (-1600.00,-2200.00) |  1523.97 |     9.44 |  1503.33
+
+Localizacao atual: ( -100.00,-2100.00)
+
+Distancia percorrida: 300.00 m
+Velocidade: 13.00 m/s
+
+Distancia da origem: 2102.38
+Veiculo em movimento FORA da zona de alerta
+
+
+
+
+IDENTIFICACAO: veiculo 8
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  8 | ( -200.00,-1600.00) |  1905.91 |     4.51 |  1900.00
+ 10 | (-1600.00,-2200.00) |   820.06 |    17.75 |   781.02
+ 12 | (-1400.00, -400.00) |  1391.55 |     3.30 |  1389.24
+
+Localizacao previa: (-2100.00,-1600.00)
+
+Intervalo de tempo: 25.00 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  8 | ( -200.00,-1600.00) |  1537.04 |     5.60 |  1529.71
+ 10 | (-1600.00,-2200.00) |   939.41 |    15.43 |   905.54
+ 12 | (-1400.00, -400.00) |   952.05 |     4.82 |   948.68
+
+Localizacao atual: (-1700.00,-1300.00)
+
+Distancia percorrida: 500.00 m
+Velocidade: 20.00 m/s
+
+Distancia da origem: 2140.09
+Veiculo em movimento FORA da zona de alerta
+
+
+
+
+IDENTIFICACAO: veiculo 9
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  4 | ( 1800.00, -400.00) |  1004.99 |     5.71 |  1000.00
+  5 | ( 1000.00, -600.00) |  1148.91 |    10.02 |  1131.37
+  6 | ( 1400.00,-1600.00) |   471.70 |    18.54 |   447.21
+
+Localizacao previa: ( 1800.00,-1400.00)
+
+Intervalo de tempo: 27.77 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  5 | ( 1000.00, -600.00) |   616.44 |    18.93 |   583.10
+  4 | ( 1800.00, -400.00) |   591.61 |     9.73 |   583.10
+  6 | ( 1400.00,-1600.00) |   722.84 |    11.98 |   707.11
+
+Localizacao atual: ( 1500.00, -900.00)
+
+Distancia percorrida: 583.10 m
+Velocidade: 21.00 m/s
+
+Distancia da origem: 1749.29
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 10
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  1 | ( 2000.00, 1800.00) |   663.32 |    17.55 |   632.46
+  2 | ( 2000.00,  600.00) |   650.00 |    13.34 |   632.46
+  3 | ( 2600.00,  600.00) |  1019.80 |    11.31 |  1000.00
+
+Localizacao previa: ( 1800.00, 1200.00)
+
+Intervalo de tempo: 55.47 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  1 | ( 2000.00, 1800.00) |  1296.15 |     8.88 |  1280.62
+  2 | ( 2000.00,  600.00) |   838.15 |    10.31 |   824.62
+ 18 | (  600.00, 1000.00) |   637.50 |     7.21 |   632.46
+
+Localizacao atual: ( 1200.00,  800.00)
+
+Distancia percorrida: 721.11 m
+Velocidade: 13.00 m/s
+
+Distancia da origem: 1442.22
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria INTERCEPTARA AP
+Distancia atual a AP e' de 1242.22 metros
+Interseccao ocorrera em 95.56 segundos,
+na coordenada (  166.41,  110.94)
+
+
+
+
+IDENTIFICACAO: veiculo 11
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 18 | (  600.00, 1000.00) |  1458.22 |     3.14 |  1456.02
+ 19 | ( -400.00, 1800.00) |   590.68 |    16.73 |   565.69
+ 20 | (-1000.00, 1400.00) |   297.32 |    47.73 |   200.00
+
+Localizacao previa: ( -800.00, 1400.00)
+
+Intervalo de tempo: 72.89 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 14 | ( -600.00,  400.00) |   540.74 |    19.44 |   509.90
+ 15 | (    0.00,  400.00) |   722.84 |    11.98 |   707.11
+ 18 | (  600.00, 1000.00) |  1107.43 |     4.14 |  1104.54
+
+Localizacao atual: ( -500.00,  900.00)
+
+Distancia percorrida: 583.10 m
+Velocidade: 8.00 m/s
+
+Distancia da origem: 1029.56
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria INTERCEPTARA AP
+Distancia atual a AP e' de 831.95 metros
+Interseccao ocorrera em 103.99 segundos,
+na coordenada (  -71.96,  186.60)
+
+
+
+
+IDENTIFICACAO: veiculo 12
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 11 | ( -600.00, -600.00) |   223.61 |    26.57 |   200.00
+ 14 | ( -600.00,  400.00) |  1035.57 |    10.01 |  1019.80
+ 12 | (-1400.00, -400.00) |   637.50 |     7.21 |   632.46
+
+Localizacao previa: ( -800.00, -600.00)
+
+Intervalo de tempo: 35.90 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 11 | ( -600.00, -600.00) |   374.17 |    15.50 |   360.56
+ 16 | ( -200.00, -200.00) |   274.95 |    35.59 |   223.61
+  9 | (  200.00,-1000.00) |   790.19 |     8.73 |   781.02
+
+Localizacao atual: ( -300.00, -400.00)
+
+Distancia percorrida: 538.52 m
+Velocidade: 15.00 m/s
+
+Distancia da origem: 500.00
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 13
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  9 | (  200.00,-1000.00) |   429.42 |    16.23 |   412.31
+  5 | ( 1000.00, -600.00) |   728.01 |    15.95 |   700.00
+ 17 | (  500.00,  100.00) |   734.85 |     7.82 |   728.01
+
+Localizacao previa: (  300.00, -600.00)
+
+Intervalo de tempo: 23.08 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 16 | ( -200.00, -200.00) |   534.42 |    17.42 |   509.90
+ 17 | (  500.00,  100.00) |   458.26 |    12.60 |   447.21
+  5 | ( 1000.00, -600.00) |   787.40 |    14.71 |   761.58
+
+Localizacao atual: (  300.00, -300.00)
+
+Distancia percorrida: 300.00 m
+Velocidade: 13.00 m/s
+
+Distancia da origem: 424.26
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 14
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 17 | (  500.00,  100.00) |   374.17 |    15.50 |   360.56
+ 15 | (    0.00,  400.00) |   715.89 |    12.09 |   700.00
+ 18 | (  600.00, 1000.00) |   613.51 |     7.49 |   608.28
+
+Localizacao previa: (  700.00,  400.00)
+
+Intervalo de tempo: 26.67 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 17 | (  500.00,  100.00) |   374.17 |    15.50 |   360.56
+ 15 | (    0.00,  400.00) |   335.41 |    26.57 |   300.00
+ 18 | (  600.00, 1000.00) |   675.57 |     6.80 |   670.82
+
+Localizacao atual: (  300.00,  400.00)
+
+Distancia percorrida: 400.00 m
+Velocidade: 15.00 m/s
+
+Distancia da origem: 500.00
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 15
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 14 | ( -600.00,  400.00) |   482.08 |    21.92 |   447.21
+ 15 | (    0.00,  400.00) |   320.16 |    27.94 |   282.84
+ 18 | (  600.00, 1000.00) |   898.00 |     5.11 |   894.43
+
+Localizacao previa: ( -200.00,  600.00)
+
+Intervalo de tempo: 17.57 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 14 | ( -600.00,  400.00) |   540.74 |    19.44 |   509.90
+ 15 | (    0.00,  400.00) |   206.16 |    46.69 |   141.42
+ 18 | (  600.00, 1000.00) |   993.18 |     4.62 |   989.95
+
+Localizacao atual: ( -100.00,  300.00)
+
+Distancia percorrida: 316.23 m
+Velocidade: 18.00 m/s
+
+Distancia da origem: 316.23
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria INTERCEPTARA AP
+Distancia atual a AP e' de 116.23 metros
+Interseccao ocorrera em 6.46 segundos,
+na coordenada (  -63.25,  189.74)
+
+*************************************
+  ALARME, ALARME, ALARME, ALARME !!
+      Invasao iminente !
+*************************************
+
+
+
+
+IDENTIFICACAO: veiculo 16
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  9 | (  200.00,-1000.00) |   463.03 |    15.02 |   447.21
+ 11 | ( -600.00, -600.00) |   608.28 |     9.46 |   600.00
+ 16 | ( -200.00, -200.00) |   474.97 |    19.69 |   447.21
+
+Localizacao previa: (   -0.00, -600.00)
+
+Intervalo de tempo: 20.00 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  9 | (  200.00,-1000.00) |   737.83 |     9.36 |   728.01
+ 11 | ( -600.00, -600.00) |   678.23 |     8.48 |   670.82
+ 16 | ( -200.00, -200.00) |   274.95 |    35.59 |   223.61
+
+Localizacao atual: (   -0.00, -300.00)
+
+Distancia percorrida: 300.00 m
+Velocidade: 15.00 m/s
+
+Distancia da origem: 300.00
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria INTERCEPTARA AP
+Distancia atual a AP e' de 100.00 metros
+Interseccao ocorrera em 6.67 segundos,
+na coordenada (   -0.00, -200.00)
+
+*************************************
+  ALARME, ALARME, ALARME, ALARME !!
+      Invasao iminente !
+*************************************
+
+
+
+
+IDENTIFICACAO: veiculo 18
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 16 | ( -200.00, -200.00) |   620.97 |    14.93 |   600.00
+ 17 | (  500.00,  100.00) |   331.66 |    17.55 |   316.23
+  9 | (  200.00,-1000.00) |   833.31 |     8.28 |   824.62
+
+Localizacao previa: (  400.00, -200.00)
+
+Intervalo de tempo: 22.59 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  5 | ( 1000.00, -600.00) |   469.04 |    25.24 |   424.26
+  9 | (  200.00,-1000.00) |   868.56 |     7.94 |   860.23
+ 17 | (  500.00,  100.00) |   458.26 |    12.60 |   447.21
+
+Localizacao atual: (  700.00, -300.00)
+
+Distancia percorrida: 316.23 m
+Velocidade: 14.00 m/s
+
+Distancia da origem: 761.58
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 19
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 11 | ( -600.00, -600.00) |   640.31 |     8.98 |   632.46
+ 16 | ( -200.00, -200.00) |   324.96 |    29.50 |   282.84
+ 15 | (    0.00,  400.00) |   585.23 |    14.85 |   565.69
+
+Localizacao previa: ( -400.00,    0.00)
+
+Intervalo de tempo: 29.15 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 12 | (-1400.00, -400.00) |   863.94 |     5.31 |   860.23
+ 13 | (-1200.00,  200.00) |   374.17 |    32.31 |   316.23
+ 14 | ( -600.00,  400.00) |   363.87 |    29.65 |   316.23
+
+Localizacao atual: ( -900.00,  300.00)
+
+Distancia percorrida: 583.10 m
+Velocidade: 20.00 m/s
+
+Distancia da origem: 948.68
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 20
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 15 | (    0.00,  400.00) |   531.51 |    16.39 |   509.90
+ 16 | ( -200.00, -200.00) |   213.54 |    48.53 |   141.42
+ 17 | (  500.00,  100.00) |   640.31 |     8.98 |   632.46
+
+Localizacao previa: ( -100.00, -100.00)
+
+Intervalo de tempo: 28.33 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 11 | ( -600.00, -600.00) |   412.31 |    14.04 |   400.00
+ 12 | (-1400.00, -400.00) |   828.49 |     5.54 |   824.62
+ 16 | ( -200.00, -200.00) |   430.81 |    21.80 |   400.00
+
+Localizacao atual: ( -600.00, -200.00)
+
+Distancia percorrida: 509.90 m
+Velocidade: 18.00 m/s
+
+Distancia da origem: 632.46
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 21
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 11 | ( -600.00, -600.00) |   588.56 |     9.78 |   580.00
+ 16 | ( -200.00, -200.00) |   161.25 |    82.88 |    20.00
+ 17 | (  500.00,  100.00) |   749.93 |     7.66 |   743.24
+
+Localizacao previa: ( -180.00, -200.00)
+
+Intervalo de tempo: 32.50 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 15 | (    0.00,  400.00) |   522.02 |    16.70 |   500.00
+ 16 | ( -200.00, -200.00) |   561.78 |    16.55 |   538.52
+ 17 | (  500.00,  100.00) |   244.95 |    24.09 |   223.61
+
+Localizacao atual: (  300.00,    0.00)
+
+Distancia percorrida: 520.00 m
+Velocidade: 16.00 m/s
+
+Distancia da origem: 300.00
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 23
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 14 | ( -600.00,  400.00) |   490.71 |    21.52 |   456.51
+ 15 | (    0.00,  400.00) |   333.02 |    26.77 |   297.32
+ 16 | ( -200.00, -200.00) |   412.31 |    22.83 |   380.00
+
+Localizacao previa: ( -200.00,  180.00)
+
+Intervalo de tempo: 28.00 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 15 | (    0.00,  400.00) |   345.40 |    25.74 |   311.13
+ 16 | ( -200.00, -200.00) |   588.56 |    15.77 |   566.39
+ 17 | (  500.00,  100.00) |   307.90 |    18.95 |   291.20
+
+Localizacao atual: (  220.00,  180.00)
+
+Distancia percorrida: 420.00 m
+Velocidade: 15.00 m/s
+
+Distancia da origem: 284.25
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria NAO INTERCEPTARA AP
+
+
+
+
+IDENTIFICACAO: veiculo 24
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+  9 | (  200.00,-1000.00) |   632.22 |    10.94 |   620.73
+ 11 | ( -600.00, -600.00) |   807.03 |     7.12 |   800.81
+ 16 | ( -200.00, -200.00) |   441.47 |    21.25 |   411.46
+
+Localizacao previa: (  170.00, -380.00)
+
+Intervalo de tempo: 24.51 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 15 | (    0.00,  400.00) |   528.11 |    16.50 |   506.36
+ 16 | ( -200.00, -200.00) |   337.64 |    28.29 |   297.32
+ 17 | (  500.00,  100.00) |   475.82 |    12.13 |   465.19
+
+Localizacao atual: (   80.00, -100.00)
+
+Distancia percorrida: 294.11 m
+Velocidade: 12.00 m/s
+
+Distancia da origem: 128.06
+Veiculo em movimento na AP
+
+*************************************
+  ALARME, ALARME, ALARME, ALARME !!
+       Veiculo esta na AP !
+*************************************
+
+
+
+
+IDENTIFICACAO: veiculo 26
+
+Antenas na posicao previa
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 18 | (  600.00, 1000.00) |  1003.19 |     4.57 |  1000.00
+ 19 | ( -400.00, 1800.00) |   434.63 |    23.03 |   400.00
+ 20 | (-1000.00, 1400.00) |  1099.27 |    11.54 |  1077.03
+
+Localizacao previa: (   -0.00, 1800.00)
+
+Intervalo de tempo: 20.00 segundos
+
+Antenas na posicao atual
+ id | posicao | H (m) | theta (graus) | distancia (m) 
+ 15 | (    0.00,  400.00) |  1209.34 |     7.13 |  1200.00
+ 18 | (  600.00, 1000.00) |   852.29 |     5.39 |   848.53
+ 19 | ( -400.00, 1800.00) |   478.43 |    20.81 |   447.21
+
+Localizacao atual: (   -0.00, 1600.00)
+
+Distancia percorrida: 200.00 m
+Velocidade: 10.00 m/s
+
+Distancia da origem: 1600.00
+Veiculo em movimento na ZONA DE ALERTA
+
+Trajetoria INTERCEPTARA AP
+Distancia atual a AP e' de 1400.00 metros
+Interseccao ocorrera em 140.00 segundos,
+na coordenada (   -0.00,  200.00)
